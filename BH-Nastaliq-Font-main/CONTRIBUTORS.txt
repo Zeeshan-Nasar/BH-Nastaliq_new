@@ -1,0 +1,16 @@
+# CONTRIBUTORS
+# The following individuals contributed to the design and technical realization of BH Nastaliq.
+
+# Project Lead & Engineering
+Muhammad Zeeshan Nasar
+(Lead Font Developer, Mehr Type)
+https://mehrtype.com/
+
+# Calligraphy & Design
+[Nasrullah Mehr]
+(Calligraphy & Art Direction)
+
+# Project Supervision
+Beaconhouse Design Team
+(Commissioning & Review)
+https://www.beaconhouse.net/
