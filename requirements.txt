@@ -1,0 +1,12 @@
+# Core build tools
+fontmake>=3.10.0
+ufo2ft>=2.31.0
+glyphsLib>=6.7.0
+
+# Google Fonts specific tools & QA
+gftools>=0.9.29
+fontbakery>=0.11.0
+opentype-feature-freezer>=1.32.0
+
+# General utilities
+fonttools>=4.42.0
